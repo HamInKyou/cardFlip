@@ -5,7 +5,7 @@ const presentList = [
     presentName: "쿼터 아이스크림 (15500원)",
   },
   {
-    cardName: "BHC",
+    cardName: "바울",
     brand: "베스킨라빈스",
     presentName: "후라이드 반+양념 반+콜라 1.5L (18000원)",
   },
