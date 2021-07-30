@@ -68,12 +68,21 @@ body {
   transform: rotateY(0deg);
 }
 
-.container .card.back h3 {
+.container .card.back h2 {
   font-weight: bold;
   font-size: 24px;
   margin-bottom: 20px;
 }
 
+.container .card.back h3 {
+  font-weight: bold;
+  color: coral;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
 .container .card.back p {
   font-size: 18px;
+  line-height: 1.3;
+  text-align: center;
 }
